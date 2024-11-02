@@ -1,0 +1,70 @@
+body{
+    background-color: #a39276;
+}
+.main{
+    width: 40%;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 150px;
+    padding: 10px;
+}
+h2{
+    font-family: 'Cairo', sans-serif;
+}
+input{
+    margin-bottom: 10px;
+    width: 40%;
+    padding: 5px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    display: block;
+    border-radius: 10px;
+    text-align: center;
+}
+button{
+    border:none;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: black;
+    cursor: pointer;
+    font-family: 'Cairo', sans-serif;
+    margin-bottom: 15px;
+    color: white;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+button:hover{
+    border:none;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: white;
+    cursor: pointer;
+    font-family: 'Cairo', sans-serif;
+    margin-bottom: 15px;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid black;
+    transition: 0.5s;
+}
+
+label{
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #1F87CF;
+    font-family: 'Cairo', sans-serif;
+    color:white;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    font-family: 'Cairo', sans-serif;
+    font-weight: bold;
+}
